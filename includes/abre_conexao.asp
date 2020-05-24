@@ -1,5 +1,4 @@
 ﻿<%
-
 'Abre conex�o com o banco de dados.
 dim adoConn
 dim adoRS
